@@ -34,13 +34,3 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-
-
-POSTGRES_URL="postgres://default:OYc9s0BWrNtn@ep-quiet-sunset-a4x6vlon-pooler.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require"
-POSTGRES_PRISMA_URL="postgres://default:OYc9s0BWrNtn@ep-quiet-sunset-a4x6vlon-pooler.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require&pgbouncer=true&connect_timeout=15"
-POSTGRES_URL_NO_SSL="postgres://default:OYc9s0BWrNtn@ep-quiet-sunset-a4x6vlon-pooler.us-east-1.aws.neon.tech:5432/verceldb"
-POSTGRES_URL_NON_POOLING="postgres://default:OYc9s0BWrNtn@ep-quiet-sunset-a4x6vlon.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require"
-POSTGRES_USER="default"
-POSTGRES_HOST="ep-quiet-sunset-a4x6vlon-pooler.us-east-1.aws.neon.tech"
-POSTGRES_PASSWORD="OYc9s0BWrNtn"
-POSTGRES_DATABASE="verceldb"
